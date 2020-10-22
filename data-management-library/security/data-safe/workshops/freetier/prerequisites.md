@@ -1,5 +1,5 @@
-﻿
-# Prerequisites for the Oracle Data Safe Workshop on the Free Tier               
+
+# Prerequisites for the Oracle Data Safe Workshop on the Free Tier
 
 ## Introduction
 
@@ -110,11 +110,11 @@ Throughout the workshop, it is assumed that you are signed in to the Oracle Clou
   ![Cloud Account Name page](images/349900292.png)
 
 
-5. In the **Oracle Cloud Infrastructure** section, enter your **username** and **password** for your Oracle Cloud account, and then click **Sign In**. Your username is your email address. The password is what you chose when you signed up for an account.  
+5. In the **Oracle Cloud Infrastructure** section, enter your **username** and **password** for your Oracle Cloud account, and then click **Sign In**. Your username is your email address. The password is what you chose when you signed up for an account.
 
   ![SIGN IN page for Oracle Cloud Infrastructure](images/349900293.png)
 
-6. You are now signed in to the Oracle Cloud Infrastructure Console. The landing page shows you a dashboard. In the upper-left corner, there is a navigation menu (hamburger menu).  
+6. You are now signed in to the Oracle Cloud Infrastructure Console. The landing page shows you a dashboard. In the upper-left corner, there is a navigation menu (hamburger menu).
 
   ![Oracle Cloud Infrastructure Console](images/349900294.png)
 

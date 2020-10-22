@@ -1,4 +1,4 @@
-﻿
+
 # Prerequisites for the LiveLabs Tenancy
 
 ## Introduction
